@@ -1,0 +1,45 @@
+C:\Users\ASAFZ\source\repos\Garage managment system project\Garage managment system project\bin\Debug\Garage managment system project.exe.config
+C:\Users\ASAFZ\source\repos\Garage managment system project\Garage managment system project\bin\Debug\Garage managment system project.exe
+C:\Users\ASAFZ\source\repos\Garage managment system project\Garage managment system project\bin\Debug\Garage managment system project.pdb
+C:\Users\ASAFZ\source\repos\Garage managment system project\Garage managment system project\obj\Debug\Garage managment system project.csproj.AssemblyReference.cache
+C:\Users\ASAFZ\source\repos\Garage managment system project\Garage managment system project\obj\Debug\Garage managment system project.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASAFZ\source\repos\Garage managment system project\Garage managment system project\obj\Debug\Garage_managment_system_project.Form1.resources
+C:\Users\ASAFZ\source\repos\Garage managment system project\Garage managment system project\obj\Debug\Garage_managment_system_project.Properties.Resources.resources
+C:\Users\ASAFZ\source\repos\Garage managment system project\Garage managment system project\obj\Debug\Garage managment system project.csproj.GenerateResource.cache
+C:\Users\ASAFZ\source\repos\Garage managment system project\Garage managment system project\obj\Debug\Garage managment system project.csproj.CoreCompileInputs.cache
+C:\Users\ASAFZ\source\repos\Garage managment system project\Garage managment system project\obj\Debug\Garage managment system project.exe
+C:\Users\ASAFZ\source\repos\Garage managment system project\Garage managment system project\obj\Debug\Garage managment system project.pdb
+G:\מחשבים אחרים\מחשב נייח\source\repos\Garage managment system project\Garage managment system project\obj\Debug\Garage managment system project.csproj.AssemblyReference.cache
+G:\מחשבים אחרים\מחשב נייח\source\repos\Garage managment system project\Garage managment system project\obj\Debug\Garage managment system project.csproj.SuggestedBindingRedirects.cache
+G:\מחשבים אחרים\מחשב נייח\source\repos\Garage managment system project\Garage managment system project\obj\Debug\Garage_managment_system_project.Form1.resources
+G:\מחשבים אחרים\מחשב נייח\source\repos\Garage managment system project\Garage managment system project\obj\Debug\Garage_managment_system_project.Properties.Resources.resources
+G:\מחשבים אחרים\מחשב נייח\source\repos\Garage managment system project\Garage managment system project\obj\Debug\Garage managment system project.csproj.GenerateResource.cache
+G:\מחשבים אחרים\מחשב נייח\source\repos\Garage managment system project\Garage managment system project\obj\Debug\Garage managment system project.csproj.CoreCompileInputs.cache
+G:\מחשבים אחרים\מחשב נייח\source\repos\Garage managment system project\Garage managment system project\obj\Debug\Garage managment system project.exe
+G:\מחשבים אחרים\מחשב נייח\source\repos\Garage managment system project\Garage managment system project\obj\Debug\Garage managment system project.pdb
+G:\מחשבים אחרים\מחשב נייח\source\repos\Garage managment system project\Garage managment system project\obj\Debug\Garage_managment_system_project.MotorcycleForm.resources
+G:\מחשבים אחרים\מחשב נייח\source\repos\Garage managment system project\Garage managment system project\bin\Debug\Garage managment system project.exe.config
+G:\מחשבים אחרים\מחשב נייח\source\repos\Garage managment system project\Garage managment system project\bin\Debug\Garage managment system project.exe
+G:\מחשבים אחרים\מחשב נייח\source\repos\Garage managment system project\Garage managment system project\bin\Debug\Garage managment system project.pdb
+G:\מחשבים אחרים\מחשב נייח\source\repos\Garage managment system project\Garage managment system project\obj\Debug\Garage_managment_system_project.CarForm.resources
+G:\מחשבים אחרים\מחשב נייח\source\repos\Garage managment system project\Garage managment system project\obj\Debug\Garage_managment_system_project.BusForm.resources
+G:\מחשבים אחרים\מחשב נייח\source\repos\Garage managment system project\Garage managment system project\obj\Debug\Garage_managment_system_project.TruckForm.resources
+C:\Users\ASAFZ\source\repos\Garage managment system project\Garage managment system project\obj\Debug\Garage_managment_system_project.BusForm.resources
+C:\Users\ASAFZ\source\repos\Garage managment system project\Garage managment system project\obj\Debug\Garage_managment_system_project.CarForm.resources
+C:\Users\ASAFZ\source\repos\Garage managment system project\Garage managment system project\obj\Debug\Garage_managment_system_project.MotorcycleForm.resources
+C:\Users\ASAFZ\source\repos\Garage managment system project\Garage managment system project\obj\Debug\Garage_managment_system_project.TruckForm.resources
+C:\Users\idanb\OneDrive\Desktop\‏‏תיקיה חדשה (2)\Garage managment system project\Garage managment system project\bin\Debug\Garage managment system project.exe.config
+C:\Users\idanb\OneDrive\Desktop\‏‏תיקיה חדשה (2)\Garage managment system project\Garage managment system project\bin\Debug\Garage managment system project.exe
+C:\Users\idanb\OneDrive\Desktop\‏‏תיקיה חדשה (2)\Garage managment system project\Garage managment system project\bin\Debug\Garage managment system project.pdb
+C:\Users\idanb\OneDrive\Desktop\‏‏תיקיה חדשה (2)\Garage managment system project\Garage managment system project\obj\Debug\Garage managment system project.csproj.AssemblyReference.cache
+C:\Users\idanb\OneDrive\Desktop\‏‏תיקיה חדשה (2)\Garage managment system project\Garage managment system project\obj\Debug\Garage managment system project.csproj.SuggestedBindingRedirects.cache
+C:\Users\idanb\OneDrive\Desktop\‏‏תיקיה חדשה (2)\Garage managment system project\Garage managment system project\obj\Debug\Garage_managment_system_project.BusForm.resources
+C:\Users\idanb\OneDrive\Desktop\‏‏תיקיה חדשה (2)\Garage managment system project\Garage managment system project\obj\Debug\Garage_managment_system_project.CarForm.resources
+C:\Users\idanb\OneDrive\Desktop\‏‏תיקיה חדשה (2)\Garage managment system project\Garage managment system project\obj\Debug\Garage_managment_system_project.Form1.resources
+C:\Users\idanb\OneDrive\Desktop\‏‏תיקיה חדשה (2)\Garage managment system project\Garage managment system project\obj\Debug\Garage_managment_system_project.MotorcycleForm.resources
+C:\Users\idanb\OneDrive\Desktop\‏‏תיקיה חדשה (2)\Garage managment system project\Garage managment system project\obj\Debug\Garage_managment_system_project.Properties.Resources.resources
+C:\Users\idanb\OneDrive\Desktop\‏‏תיקיה חדשה (2)\Garage managment system project\Garage managment system project\obj\Debug\Garage_managment_system_project.TruckForm.resources
+C:\Users\idanb\OneDrive\Desktop\‏‏תיקיה חדשה (2)\Garage managment system project\Garage managment system project\obj\Debug\Garage managment system project.csproj.GenerateResource.cache
+C:\Users\idanb\OneDrive\Desktop\‏‏תיקיה חדשה (2)\Garage managment system project\Garage managment system project\obj\Debug\Garage managment system project.csproj.CoreCompileInputs.cache
+C:\Users\idanb\OneDrive\Desktop\‏‏תיקיה חדשה (2)\Garage managment system project\Garage managment system project\obj\Debug\Garage managment system project.exe
+C:\Users\idanb\OneDrive\Desktop\‏‏תיקיה חדשה (2)\Garage managment system project\Garage managment system project\obj\Debug\Garage managment system project.pdb

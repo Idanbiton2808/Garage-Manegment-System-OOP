@@ -1,0 +1,15 @@
+C:\Users\ASAFZ\source\repos\Garage managment system project\Garage managment system project\obj\Debug\Vehicle lot managment system project.csproj.AssemblyReference.cache
+C:\Users\ASAFZ\source\repos\Garage managment system project\Garage managment system project\obj\Debug\Vehicle lot managment system project.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASAFZ\source\repos\Garage managment system project\Garage managment system project\obj\Debug\Garage_managment_system_project.BusForm.resources
+C:\Users\ASAFZ\source\repos\Garage managment system project\Garage managment system project\obj\Debug\Garage_managment_system_project.CarForm.resources
+C:\Users\ASAFZ\source\repos\Garage managment system project\Garage managment system project\obj\Debug\Garage_managment_system_project.Form1.resources
+C:\Users\ASAFZ\source\repos\Garage managment system project\Garage managment system project\obj\Debug\Garage_managment_system_project.MotorcycleForm.resources
+C:\Users\ASAFZ\source\repos\Garage managment system project\Garage managment system project\obj\Debug\Garage_managment_system_project.Properties.Resources.resources
+C:\Users\ASAFZ\source\repos\Garage managment system project\Garage managment system project\obj\Debug\Garage_managment_system_project.TruckForm.resources
+C:\Users\ASAFZ\source\repos\Garage managment system project\Garage managment system project\obj\Debug\Vehicle lot managment system project.csproj.GenerateResource.cache
+C:\Users\ASAFZ\source\repos\Garage managment system project\Garage managment system project\obj\Debug\Vehicle lot managment system project.csproj.CoreCompileInputs.cache
+C:\Users\ASAFZ\source\repos\Garage managment system project\Garage managment system project\obj\Debug\Garage managment system project.exe
+C:\Users\ASAFZ\source\repos\Garage managment system project\Garage managment system project\obj\Debug\Garage managment system project.pdb
+C:\Users\ASAFZ\source\repos\Garage managment system project\Garage managment system project\bin\Debug\Garage managment system project.exe.config
+C:\Users\ASAFZ\source\repos\Garage managment system project\Garage managment system project\bin\Debug\Garage managment system project.exe
+C:\Users\ASAFZ\source\repos\Garage managment system project\Garage managment system project\bin\Debug\Garage managment system project.pdb
